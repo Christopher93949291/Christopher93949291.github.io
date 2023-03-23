@@ -1,0 +1,62 @@
+.youtube_icon {
+	display : inline-block;
+    /* width:30px;
+    height:30px; */
+    background-image: url(assets\img\flags\youtube.jpg);
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
+.bilibili_icon {
+	display : inline-block;
+    /* width:30px;
+    height:30px; */
+    background-image: url(assets\img\flags\bilibili.png);
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
+.email_icon {
+    display : inline-block;
+    width:30px;
+    height:30px;
+    background-image: url();
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
+.pinterest_icon {
+    display : inline-block;
+    width:30px;
+    height:30px;
+    background-image: url();
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
+.behance_icon {
+    display : inline-block;
+    width:30px;
+    height:30px;
+    background-image: url();
+    background-position: center center;
+    background-size: 16px 16px;
+}
+
+.twiter_icon {
+	display : inline-block;
+    width:30px;
+    height:30px;
+    background-image: url();
+    background-position: center center;
+    background-size: 25px 25px;
+}
+
+.facebook_icon {
+    display : inline-block;
+    width:30px;
+    height:30px;
+    background-image: url();
+    background-position: center center;
+    background-size: 16px 16px;
+}
